@@ -16,4 +16,6 @@ I changed the title of the page to match the name of the company.
 
 Lastly, I went through the CSS page and found any selectors I could merge together to save space. I combined all "benefit IMG" and "benefit h3" CSS seelectors under a new class as they had the same CSS properties being used, just repeated multiple times. I did the same thing with the "search engine optimization, online reputation management, and social media marketing" DIVS, IMGS, and h2s.
 
-Here is my working URL:
+Here is my working URL: https://connermtodd.github.io/weekonechallenge/
+
+Here is a screenshot of the finished product : ![](assets/images/finalproduct.png)
